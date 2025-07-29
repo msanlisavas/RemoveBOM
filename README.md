@@ -1,4 +1,4 @@
-# RemoveBOM
+# RemoveBOM in ABP Projects
 # PowerShell Script to Remove BOM from JSON Files
 
 This PowerShell script recursively searches through a project directory and all its subdirectories to find all JSON files and removes the Byte Order Mark (BOM) if present. This is useful for ensuring that JSON files do not contain BOMs, which can cause issues in certain applications.
